@@ -14,6 +14,7 @@ export default function Home() {
         <meta property="fc:frame" content="vNext" />
         <meta property="fc:frame:image" content={fullImageUrl} />
         <meta property="fc:frame:button:1" content="Next FrameRing FramePage" />
+        <meta property="of:accepts:xmtp" content="2024-02-01" />
         <meta property="fc:frame:post_url" content={POST_URL} />
       </Head>
       <div className={styles.container}>
