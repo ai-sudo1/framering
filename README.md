@@ -1,8 +1,9 @@
 # Frame Ring
 
-Just a good old fashioned web ring but with farcaster frames ^-^
+Just a good old fashioned web ring but with open frames ^-^
 
-
+![alt text](image.png)
+![alt text](<Screenshot 2024-03-26 224619.png>)
 Instructions:
 
 1. Fork this FrameRing repo and import it into a new Vercel Next.js project
