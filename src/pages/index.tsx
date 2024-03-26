@@ -21,7 +21,7 @@ export default function Home() {
         <img className={styles.ring} src={`${BASE_URL}/home/image.png`} alt="Image" />
         <div className={styles.title}>
           Join the FrameRing!<br />
-          Instructions on <a href="https://github.com/riotgoools/framering">Github</a>
+          Instructions on <a href="https://github.com/ai-sudo1/framering/">Github</a>
         </div>
         <img src={`${BASE_URL}/home/webring.gif`} alt="Image" />
       </div>
