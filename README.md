@@ -2,7 +2,6 @@
 
 Just a good old fashioned web ring but with farcaster frames ^-^
 
-[https://warpcast.com/riotgoools/0x979a6541](https://warpcast.com/riotgoools/0x979a6541)
 
 Instructions:
 
