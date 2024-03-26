@@ -18,5 +18,3 @@ Instructions:
 Have fun on the internet
 
 -elle
-
-*For instance, framering-0.vercel.app is the first in the ring. The next frame is framering-1.vercel.app, taken by elle as the first example. If you are prevented from using a number, it means someone is already in that spot so choose the next number. You may also choose a number farther down the line and wait/hope for the ring to reach your spot.
